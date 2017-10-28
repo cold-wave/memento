@@ -1,2 +1,2 @@
-# memento
-AI assistant for human memory
+# Memento
+AI-assistant for human memory
